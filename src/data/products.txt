@@ -1,0 +1,25 @@
+{
+  "nextId": 3,
+  "data": [
+    {
+      "name": "Lapíz",
+      "description": "Lapíz de color",
+      "code": "LAP-001",
+      "price": 7.5,
+      "photoUrl": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-512.png",
+      "stock": 12,
+      "id": 1,
+      "timestamp": 1659533188431
+    },
+    {
+      "name": "Calculadora",
+      "description": "Calculadora básica",
+      "code": "CAL-001",
+      "price": 17.5,
+      "photoUrl": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-1024.png",
+      "stock": 3,
+      "id": 2,
+      "timestamp": 1659854550465
+    }
+  ]
+}
